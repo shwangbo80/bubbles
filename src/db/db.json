@@ -1,0 +1,443 @@
+{
+  "bobas": [
+    {
+      "id": 0,
+      "name": "Taro Bubble Tea",
+      "img": "https://www.ohhowcivilized.com/wp-content/uploads/taro-bubble-tea-recipe.jpg",
+      "category": "",
+      "ingredients": [
+        "30 tapioca pearls (boiled and prepared to eat) 1 green tea bag",
+        "2 cup hot water",
+        "4 tbsp taro powder",
+        "2 tsp honey",
+        "3 tsp condensed milk",
+        "4 ice cubes"
+      ],
+      "directions": [
+        "1, Prepare a glass of green tea (2 cup hot water with a tea bag). Add honey and condensed milk into tea.",
+        "2, While the tea is stil hot, add taro powder. Mix well.",
+        "3, Shake tea with a cocktail shaker or thermos flask until frothy on top.",
+        "4, Blend together tea and ice cubes, using a kitchen blender. Blend on high speed for 10-15 seconds.",
+        "5, Pour the boba into your glass and slowly pour the tea on top. Serve with a fat boba straw or spoon."
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Green Bubble Tea",
+      "img": "https://carmyy.com/wp-content/uploads/2022/01/matcha-bubble-tea-new.jpg",
+      "category": "",
+      "ingredients": [
+        "20 ice cubes",
+        "2 cup green tea brewed",
+        "2 cup milk of your choice",
+        "4 Tbsp. matcha",
+        "1 cup cooked tapioca pearls"
+      ],
+      "directions": [
+        "1, Add the ice, green tea, milk, and matcha to a cocktail shaker or Thermos flask and shake wel until the mixture is frothy on top.",
+        "2, Pour the boba into your glass and slowly pour the hot tea on top. Serve with a fat boba straw or spoon."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bubble Milk Tea",
+      "img": "https://assets.epicurious.com/photos/5953ca064919e41593325d97/1:1/w_3744,h_3744,c_limit/bubble_tea_recipe_062817.jpg",
+      "category": "",
+      "ingredients": [
+        "3 cups brewed tea (such as black, green, chai, or jasmine) 4 cup ice cubes",
+        "8 tablespoons Sugar Syrup",
+        "2 cup milk (or soy, almond, or rice milk) 1 cup Tapioca Pearls (prepared, ready to eat)"
+      ],
+      "directions": [
+        "1, Combine the tea, ice, syrup, and milk in a cocktail mixer or Thermos flask; shake until frothy.",
+        "2, Pour the boba into your glass and slowly pour the tea on top. Serve with a fat boba straw or spoon."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Purple Yam Milk Bubble Tea",
+      "img": "https://www.theflavorbender.com/wp-content/uploads/2020/07/Ube-Bubble-Tea-SM-8388.jpg",
+      "category": "",
+      "ingredients": [
+        "2 cups boiling water",
+        "2 teaspoons purple yam powder (found in Asian supermarkets or online) Sweetener of your choice, and amount to your taste Milk, cream or condensed milk",
+        "Boiled and prepared tapioca pearls"
+      ],
+      "directions": [
+        "1, Whisk the purple yam powder in the boiling water until smooth, and add the sweetener of your choice if desired.",
+        "2, Add the milk, cream, or condensed milk in amounts to your taste.",
+        "3, Pour the boba into your glass and slowly pour the hot tea on top. Serve with a fat boba straw or spoon."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Fruit Juice Bubble Tea Ingredients",
+      "img": "https://i.pinimg.com/originals/8e/91/1f/8e911f58d1926fe4c130d513dfb5bb4e.jpg",
+      "category": "",
+      "ingredients": [
+        "2 cups fruit juice of your choice (orange, mango, coconut, pineapple, guava , lychee, soursop, tamarind, etc.)",
+        "Boiled and prepared tapioca pearls"
+      ],
+      "directions": [
+        "Easy! Pour the boba into your glass and slowly pour the chil ed fruit juice on top. Serve with a fat boba straw or spoon."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Berry Bubble Tea Slushie",
+      "img": "https://1.bp.blogspot.com/-dKnyksIebC8/XStJlFsYmzI/AAAAAAAAvmI/AT_KEe89zZYORc_nonoeoffosYhiscJuQCLcBGAs/s640/IMG_2442%2B%25282%2529.jpg",
+      "category": "",
+      "ingredients": [
+        "1 bag (10-12 ounces) frozen strawberries, raspberry, blackberry (or berry of choice!)",
+        "1 cup sugar",
+        "3-4 cups water",
+        "Plenty of crushed ice."
+      ],
+      "directions": [
+        "1, Before you start, let the frozen berries thaw slightly. Place all the berries, sugar and water in a blender and liquefy. Combine in a pitcher filled with crushed ice.",
+        "2, Pour the boba into your glass and slowly pour the mixture on top. Serve with a fat boba straw or spoon."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Thai Iced Bubble Tea",
+      "img": "https://carmyy.com/wp-content/uploads/2021/02/thai-tea-bubble-tea-8.jpg",
+      "category": "",
+      "ingredients": [
+        "2 cups boiling water",
+        "1 1/2 tablespoons Thai iced tea powder - found at Asian grocers or online.",
+        "Sweetener of your choice, and amount to your taste Milk, cream or condensed milk",
+        "Boiled and prepared tapioca pearls"
+      ],
+      "directions": [
+        "1, Thai iced tea powder is very fine and does not dissolve, so you wil need to put it in a coffee filter or a tea sock before commencing. Strain the boiling water through your filter or sock and steep.",
+        "2. Add the sweetener and creamer of your choice. Traditional y, condensed milk is used in this recipe, but if you are concerned about fat content, you may use ordinary milk instead. Chil the Thai tea or add ice.",
+        "3, Pour the boba into your glass and slowly pour the Thai tea on top. Serve with a fat boba straw or spoon"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Bubble Tea Iced Coffee",
+      "img": "http://static1.squarespace.com/static/5cef7b136434550001a53d10/5cef8b66bd293b0001bb0883/5cef8b66bd293b0001bb0893/1650475012843/Boba-Coffee.jpg?format=1500w",
+      "category": "",
+      "ingredients": [
+        "2 cups coffee",
+        "Sweetener of your choice, and amount to your taste Milk, cream or condensed milk",
+        "Boiled and prepared tapioca pearls"
+      ],
+      "directions": [
+        "1, Prepare coffee as you would normal y, and add the sweetener of your choice if desired. Add the milk, cream, or condensed milk in amounts to your taste.",
+        "2, Pour the boba into your glass and slowly pour the hot tea on top. Serve with a fat boba straw or spoon. This drink can be served either hot or cold. If you want this cold, make the coffee ahead of time and refrigerate, or simply add ice."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Hot Bubble Tea Latte",
+      "img": "https://www.sunnysyrup.com/proimages/recipe/popular-drink/20%20Hot%20Boba%20Cocoa%20Milk.jpg",
+      "category": "",
+      "ingredients": [
+        "2 tbsp of Bubble Tea Flavored Powder",
+        "2 1/2 cup of Hot Tea",
+        "1 cup of Milk/ Fat-Free Milk",
+        "2 scoops of cooked Bubble Tea Tapioca Pearls in a drinking cup"
+      ],
+      "directions": [
+        "1, Add the powder and hot tea into the drinking cup.",
+        "2, When the powder has dissolved, add the milk.",
+        "3, Pour the boba into your glass and slowly pour the hot tea on top. Serve with a fat boba straw or spoon. You may also like to add whipped cream as a topping."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Melon Bubble Tea",
+      "img": "http://static1.squarespace.com/static/5cef7b136434550001a53d10/5cef8b66bd293b0001bb0883/5cef8b66bd293b0001bb0893/1650475012843/Boba-Coffee.jpg?format=1500w",
+      "category": "",
+      "ingredients": [
+        "2 cups green tea",
+        "1/3 cup sugar",
+        "4 cups water",
+        "1/2 cup pearl tapioca (prepared and chewy, ready to eat).",
+        "4 cups honeydews or 4 cups cantaloupes or 4 cups watermelon (chunks) 4 cups ice cubes",
+        "2 cups orange juice",
+        "1/2 cup coconut milk"
+      ],
+      "directions": [
+        "1, Combine the brewed green tea with the 1/3 cup of sugar and set aside for later.",
+        "2, Blending in 2 batches, combine melon, ice cubes, orange juice and coconut milk in blender or food processor. Whizz until the mixture is smooth.",
+        "3, Pour the boba into your glass and slowly pour the hot tea on top. Serve with a fat boba straw or spoon."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Mango Bubble Tea",
+      "img": "https://thelittlestcrumb.com/wp-content/uploads/mango-milk-tea-featured-image-1.jpg",
+      "category": "",
+      "ingredients": [
+        "1 Ripe Mango peeled and cut into chunks",
+        "1 cup low fat milk",
+        "1/2 cup water",
+        "2 tbsp sugar",
+        "1/2 tapioca pearls (boiled and ready to eat) Honey to taste"
+      ],
+      "directions": [
+        "1, Blend the mango pieces, milk, and water together in a food processor. Add sugar to taste.",
+        "2, Pour the boba into your glass and slowly pour the mixture on top. Black tea (if desired) can also be added at this point. Serve with a fat boba straw or spoon."
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Blueberry Bubble Tea",
+      "img": "https://thelittlestcrumb.com/wp-content/uploads/mango-milk-tea-featured-image-1.jpg",
+      "category": "",
+      "ingredients": [
+        "1 cup medium tapioca pearls (boiled and prepared to eat) 1 cup smal size blueberries",
+        "4 teaspoons blueberry loose leaf tea",
+        "4 cups of ice",
+        "Lots of water"
+      ],
+      "directions": [
+        "1, Brew 32oz of tea with the 4 teaspoons of loose leaf, and leave in the fridge to chil.",
+        "2, Pour the boba into your glass and slowly pour the chil ed tea on top. Serve with a fat boba straw or spoon. Add the ice."
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Honey-Peach Bubble Tea",
+      "img": "https://liminal.space/wp-content/uploads/2021/08/eBay-60sEBDown-scaled.jpg",
+      "category": "",
+      "ingredients": [
+        "2 cups large pearl tapioca",
+        "8 tablespoons + 4 tablespoon honey",
+        "8 smal or 4 large peaches, pitted and cut into quarters 2 cups black tea, chilled",
+        "2 cups milk",
+        "Crushed ice"
+      ],
+      "directions": [
+        "1, In a food processor, blend together the peach, black tea, milk, ice, and 1 tablespoon honey.",
+        "2, Place 1/4 cup of honey-coated tapioca pearls in a glass, and slowly pour the hot tea on top. Serve with a fat boba straw or spoon."
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Avocado Bubble Tea",
+      "img": "https://www.godairyfree.org/wp-content/uploads/2015/09/Almond-Dairy-Free-Bubble-Tea.jpg",
+      "category": "",
+      "ingredients": [
+        "2 cups avocado, mashed",
+        "2 cups green tea",
+        "12 ice cubes",
+        "1 cup sweetened condensed milk",
+        "1/2 cup pearl tapioca (prepared and ready to eat)"
+      ],
+      "directions": [
+        "1, Blend the avocado, green tea, ice, and sweetened condensed milk in a food processor until liquefied.",
+        "2, Pour the boba into your glass and slowly pour the blended tea on top. Serve with a fat boba straw or spoon."
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Iced Lemon Bubble Tea",
+      "img": "https://i0.wp.com/www.angsarap.net/wp-content/uploads/2020/02/Lemon-Yakult-Ice-Crush.jpg?ssl=1",
+      "category": "",
+      "ingredients": [
+        "Water – 4 glasses",
+        "Tea powder/Tea leaves – 8 tbsps",
+        "Sugar – to taste",
+        "Lime juice – from 4 limes",
+        "2 cups Tapioca pearls (prepared and ready to eat)"
+      ],
+      "directions": [
+        "1, Boil 4 glasses of water and add the tea powder and sugar as required.",
+        "2, Once infused, drain the black tea and al ow to cool (you can also put it in the refrigerator to speed up the process once it has cooled to room temperature).",
+        "3, At the time of serving, dilute the chil ed black tea with adequate cold water. Add honey if desired, and lime juice. Stir wel.",
+        "4, Pour the boba into your glass and slowly pour the tea on top. Serve with a fat boba straw or spoon."
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Almond Bubble Tea",
+      "img": "https://www.loveandoliveoil.com/wp-content/uploads/2014/10/passionfruit-boba-tea1.jpg",
+      "category": "",
+      "ingredients": [
+        "2 cups almond milk",
+        "Tapioca pearls (prepared and ready to eat) 12 tea bags of Darjeeling tea",
+        "4 cup of ice"
+      ],
+      "directions": [
+        "1, Mix together the almond milk and tea in a large jug and refrigerate for at least 3 hours. If the almond milk has separated after this time, give it a stir with a spoon.",
+        "2, Blend the almond and tea mixture with the ice in a food processor, adding syrup to taste if desired.",
+        "3, Pour the boba into your glass and slowly pour the tea on top. Serve with a fat boba straw or spoon."
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Tropical Coconut Bubble Tea",
+      "img": "https://asset.japantoday.com/img/store/3c/bc/2e7cbdd5fd77e1076501742efbef4dc13606/TapiTrop_2.jpg",
+      "category": "",
+      "ingredients": [
+        "2 cups water",
+        "2 cups coconut milk",
+        "1 cup milk",
+        "2 cups tea, base",
+        "2 teaspoons rum extract",
+        "4 tablespoons sugar syrup",
+        "8 - 16 tablespoons cooked tapioca",
+        "4 to taste ice"
+      ],
+      "directions": [
+        "1, Place the water, coconut milk, tea, rum, and syrup into a thermos flask or cocktail shaker and shake for approximately ten seconds until blended.",
+        "2, Pour the boba into your glass and slowly pour the blended tea on top. Serve with a fat boba straw or spoon."
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Pistachio Bubble Tea",
+      "img": "https://thumbor.granitemedia.com/pistachio-boba-tea-flavor/Ah3f0yPrLj-S-bbnJhOpHpjPkfc=/800x0/filters:quality(80)/granite-web-prod/a2/9c/a29c99873d7c4ad5aa5dfd95a9549b7d.jpeg",
+      "category": "",
+      "ingredients": [
+        "2 cups evaporated milk",
+        "2 cups milk",
+        "2 cups water",
+        "2 cups tea, base",
+        "8 tablespoons sugar free pistachio pudding mix 4 tablespoons sugar syrup",
+        "8-16 tablespoons cooked tapioca",
+        "Crushed ice"
+      ],
+      "directions": [
+        "1, Place al the milk, mater, tea, sugar, and syrup into a cocktail shaker or thermos flask and shake wel for about 10 seconds until blended.",
+        "2, Pour the boba into your glass and slowly pour the blended tea on top. Serve with a fat boba straw or spoon. Add the ice."
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Kiwi Bubble Tea",
+      "img": "https://static.wixstatic.com/media/2573ae_7ce515e9737e4f098d9a56fb9309d277~mv2.jpg/v1/fill/w_904,h_1024,al_c,q_90/2573ae_7ce515e9737e4f098d9a56fb9309d277~mv2.jpg",
+      "category": "",
+      "ingredients": [
+        "1 cup Large tapioca pearls (prepared and ready to eat) 2 cups ice cubes",
+        "1 cup milk",
+        "1/2 cup low-fat Sweetened condensed milk 6 kiwi fruit, peeled and sliced"
+      ],
+      "directions": [
+        "1, Combine ice, milk, and sweetened condensed milk into blender, and pulse until smooth.",
+        "2, Add kiwifruit; pulse until just blended, do not crush kiwifruit seeds.",
+        "3, Pour the boba into your glass and slowly pour the mixture on top. Serve with a fat boba straw or spoon."
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Pina Colada Bubble Tea",
+      "img": "https://cdn.sprinklebakes.com/media/2015/04/Boba2BTea2BBubble2BTea2B6-500x500.jpg",
+      "category": "",
+      "ingredients": [
+        "1 cup pineapple juice",
+        "2 cups coconut milk",
+        "1 cup low-fat milk",
+        "2 cups tea, base",
+        "4 tablespoons sugar syrup",
+        "8 - 16 tablespoons cooked tapioca",
+        "4 to taste ice"
+      ],
+      "directions": [
+        "1, Put the pineapple, coconut milk, low-fat milk, tea, and syrup into a thermos flask or cocktail shaker and shake for about 10 seconds until frothy bubbles appear at the surface of the mixture.",
+        "2, Pour the boba into your glass and slowly pour the blended tea on top. Serve with a fat boba straw or spoon. Add the ice."
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Black Sesame Bubble Tea",
+      "img": "https://i.pinimg.com/originals/8f/6a/5a/8f6a5aff74e65bf82b11f88652f9e9de.jpg",
+      "category": "",
+      "ingredients": [
+        "2 cups water",
+        "2 cups milk",
+        "2 cups brewed tea, base",
+        "4 tablespoons sugar syrup",
+        "8 tablespoons black sesame paste",
+        "8 - 16 tablespoons prepared tapioca",
+        "4 to taste ice"
+      ],
+      "directions": [
+        "1, Place the water, milk, tea, syrup, and sesame paste into a thermos flask or cocktail shaker and shake for 10 seconds until the mixture is bubbly/frothy on top.",
+        "2, Pour the boba into your glass and slowly pour the blended tea on top. Serve with a fat boba straw or spoon. Add the ice."
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Lychee Coconut Bubble Tea",
+      "img": "https://carmyy.com/wp-content/uploads/2022/01/Lychee-Bubble-Tea-7.jpg",
+      "category": "",
+      "ingredients": [
+        "2 cups chil ed, cooked bubble tea pearls 4 cups crushed ice",
+        "4 cups canned lychees with syrup or fresh pitted fresh lychees 3 cups coconut milk",
+        "1 cups homogenized milk or cereal cream",
+        "4 to 5 teaspoons fresh lime juice",
+        "Honey or sugar, to taste"
+      ],
+      "directions": [
+        "1, Combine the ice, lychees, coconut milk, cereal cream, lime juice, and honey/sugar in a blender and blend until mixture is frothy and creamy (should take approximately one minute).",
+        "2, Pour the boba into your glass and slowly pour the mixture on top. Serve with a fat boba straw or spoon."
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Cookies and Cream Bubble Tea",
+      "img": "https://i0.wp.com/www.atasteofmadness.com/wp-content/uploads/2020/09/Cookies-and-Cream-Milkshake-Bubble-Tea-3.jpg",
+      "category": "",
+      "ingredients": [
+        "4 tablespoons crushed Oreo cookies",
+        "1 cup white chocolate chips",
+        "2 cups water",
+        "1 cup fat-free half-and-half",
+        "4 - 8 tablespoons sugar syrup",
+        "8 - 16 tablespoons prepared tapioca",
+        "4 cups ice"
+      ],
+      "directions": [
+        "1, Melt crushed Oreo cookies in microwave for about 20 seconds; stir then microwave for another 20 seconds. Mix 1/4 cup of water with melted chocolate to form a sauce.",
+        "2, Mix crushed Oreo cookies with 1/4 cup of water.",
+        "3, Add crushed ice to a blender, and pour al liquids into blender too. Bend on highest setting until al remaining ice chunks are crushed.",
+        "4, Pour the boba into your glass and slowly pour the blended tea on top. Serve with a fat boba straw or spoon. Add the ice."
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Chocolate Strawberry Bubble Tea",
+      "img": "https://i.pinimg.com/736x/a9/57/7b/a9577b4cee54163cf5975ca82a38a6ad.jpg",
+      "category": "",
+      "ingredients": [
+        "1 cup milk",
+        "1/2 cup tea",
+        "1 cup frozen strawberries or 1 cup fresh strawberries 3 teaspoons sugar substitute or 3 teaspoons sugar 1/4 cup bittersweet chocolate chips or 1/4 cup semi-sweet chocolate chips 2 teaspoons water",
+        "1 tablespoon sugar syrup",
+        "2 - 4 tablespoons tapioca",
+        "Crushed Ice"
+      ],
+      "directions": [
+        "1, If you are using frozen strawberries, put them into a metal colander and rinse them with hot water until they are soft and defrosted.",
+        "2, Place the strawberries into food processor or blender with 1 1/2 tsp of sugar, and blend until pureed.",
+        "3, Put chocolate chips and remaining 1 1/2 tsp of sugar into a bowl and heat in a microwave on high for approximately 30 seconds.",
+        "4, Remove the mixture, stir, then microwave for a further 10-15 seconds more until it is completely melted.",
+        "5, Pour 2 tsp water into bowl of melted chocolate and stir until the chocolate has the consistency of watery chocolate sauce.",
+        "6, Pour tea, milk, strawberry puree, melted chocolate sauce, and sugar syrup into cocktail shaker and shake until the mixture is frothy on surface - this shouldn't take more than 10-15 seconds."
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Peanut Butter Bubble Tea",
+      "img": "https://www.halfbakedharvest.com/wp-content/uploads/2015/04/Chocolate-Peanut-Butter-Bubble-Panna-Cotta-with-Honey-Roasted-Peanuts-1.jpg",
+      "category": "",
+      "ingredients": [
+        "1/2 cup jumbo black tapioca pearls (cooked, ready to eat) 1/4 cup Smooth Peanut Butter",
+        "3 Tbsp. honey",
+        "1 cup light no-sugar-added soy milk",
+        "1 cup brewed black tea, chiled",
+        "1 cup ice cubes"
+      ],
+      "directions": [
+        "1, Whisk peanut butter and honey in medium bowl until blended. Gradual y stir in milk, then tea.",
+        "2, Pour the boba into your glass and slowly pour the chil ed tea on top. Serve with a fat boba straw or spoon."
+      ]
+    }
+  ]
+}
